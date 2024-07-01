@@ -14,5 +14,6 @@ export {
   StringCheckReport,
   type CheckReportOptions,
   ObjectStorageChangeReport,
+  type CheckReportObj,
   ObjectCheckReport,
 } from "./lib";
